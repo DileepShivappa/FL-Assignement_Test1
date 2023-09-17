@@ -1,0 +1,19 @@
+{
+  "name": "assignment_fl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "sinonchai"
+  ],
+  "author": "dileep",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.1.0"
+  }
+}
